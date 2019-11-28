@@ -1,2 +1,2 @@
 	Calculator
-	js-calc.github.io
+	www.js-calc.github.io
